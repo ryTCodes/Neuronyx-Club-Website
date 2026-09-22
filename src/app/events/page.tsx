@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Navbar, EventsSection } from "@/components/website";
 
 export const metadata: Metadata = {
-  title: "Events | NeurOnyx AIKTC",
+  title: "Events | ACM NeurOnyx AIKTC",
   description:
     "Explore hackathons, workshops, and AI/ML experiences hosted by the NeurOnyx ACM Student Chapter at AIKTC.",
 };
